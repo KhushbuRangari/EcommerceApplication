@@ -1,0 +1,51 @@
+/* *************************** */
+/* *********Register Form CSS******** */
+
+.register-bg{
+    height: 100%;
+    background-color: rgb(3, 82, 119); /* For browsers that do not support gradients */
+    background-image: linear-gradient(180deg, rgb(241, 238, 224), rgb(117, 218, 221));
+}
+
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    flex-direction: column;
+    /* background-color: white; */
+
+}
+
+    .form-container  form {
+
+        box-shadow: black 0px 5px 15px;
+        padding: 20px;
+        background-color: white;
+       
+    }
+
+    .form-container  form .title{
+       text-align: center;
+       font-size: 30px;
+       margin-bottom: 15px;
+       font-weight: bold;
+       font-family: 'Playfair Display', serif; 
+       
+    }
+
+    .form-container  form button{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        background-color: black;
+        color: white;
+    }
+    .form-container  form button:hover{
+        background-color: rgb(20, 20, 20);
+        border: 4px solid rgb(24, 24, 53);
+    }
+
+    .form-container .form-radio{
+        padding: 10%;
+    }
