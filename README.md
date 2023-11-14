@@ -70,7 +70,8 @@ SCREENSHOT OF PROJECT
 ![CartPage](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/14c688b6-0343-42aa-830c-e65f611113de)
 ![Products](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/7d38a481-81c0-4408-b42a-8250a8cb5e03)
 ![Homepage](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/0befdd5c-c007-40da-9db4-36a7295c98da)
-![Login Page](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/77179423-de23-4f15-906c-cd4ffd4cab21)
+![Login Page](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/77179423-de23-4f15-906c-cd4ffd4cab21)![Register](https://github.com/KhushbuRangari/EcommerceApplication/assets/126225826/14d24330-e755-450e-a5e2-55227ca18543)
+
 
 
 
